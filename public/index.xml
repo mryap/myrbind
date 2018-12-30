@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>A Hugo website</title>
+    <title>Working in the intersection of Machine Learning and Digital Analytics</title>
     <link>/</link>
-    <description>Recent content on A Hugo website</description>
+    <description>Recent content on Working in the intersection of Machine Learning and Digital Analytics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 30 Dec 2018 00:00:00 +0000</lastBuildDate>
@@ -47,7 +47,10 @@ clarity: I1&#34;,&#34;count: 96</description>
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       
       <guid>/about/</guid>
-      <description>This is a &amp;ldquo;hello world&amp;rdquo; example website for the blogdown package. The theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie.</description>
+      <description>The Stack This is a &amp;ldquo;hello world&amp;rdquo; example website for the blogdown package.
+The theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie.
+Hosted on GitHub and deploy with Netlify.
+If you regularly use RMarkdown for your data analysis, blogdown is the perfect option for building your blog.</description>
     </item>
     
     <item>
