@@ -1,0 +1,5 @@
+"0","library(ggplot2)"
+"0","library(plotly)"
+"0","p <- ggplot(data = diamonds, aes(x = cut, fill = clarity)) +"
+"0","            geom_bar(position = ""dodge"")"
+"0","ggplotly(p)"
