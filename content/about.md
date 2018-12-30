@@ -11,4 +11,4 @@ The theme was forked from [@jrutheiser/hugo-lithium-theme](https://github.com/jr
 
 Hosted on GitHub and deploy with Netlify. 
 
-If you regularly use RMarkdown for your data analysis, blogdown is the perfect option for building your blog. 
+If you regularly use [RMarkdown](https://myrbind.netlify.com/2015/07/23/hello-r-markdown/) for your data analysis, blogdown is the perfect option for building your blog. 
