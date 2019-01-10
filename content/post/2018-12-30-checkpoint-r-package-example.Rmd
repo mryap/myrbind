@@ -1,0 +1,10 @@
+---
+title: Checkpoint R Package Example
+author: YAP S S
+date: '2018-12-30'
+slug: checkpoint-r-package-example
+categories:
+  - R
+tags:
+  - R Markdown
+---

@@ -1,0 +1,12 @@
+---
+title: Twitter in R Markdown
+author: YAP S S
+date: '2019-01-10'
+tags:
+  - Twitter
+slug: twitter-in-r-markdown
+---
+
+```{r echo=FALSE}
+blogdown::shortcode('tweet', '852205086956818432')
+```
