@@ -1,9 +1,13 @@
 {
-    "path" : "~/Project/myrbind",
+    "path" : "~/Project/myrbind/content/post",
     "sortOrder" : [
         {
-            "ascending" : true,
+            "ascending" : false,
             "columnIndex" : 2
+        },
+        {
+            "ascending" : false,
+            "columnIndex" : 4
         }
     ]
 }
