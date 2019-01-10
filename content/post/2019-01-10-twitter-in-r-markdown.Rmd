@@ -6,7 +6,10 @@ tags:
   - Twitter
 slug: twitter-in-r-markdown
 ---
+<<<<<<< HEAD
 
+=======
+>>>>>>> 5a2486551f6479470571af3ec475342c39b6185e
 ```{r echo=FALSE}
 blogdown::shortcode('tweet', '852205086956818432')
 ```
